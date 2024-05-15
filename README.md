@@ -1,4 +1,3 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git e GitHub
-
-Criado no Curso em Vídeo!
+ Curso de Git/GitHUB
+Toda vez que criar um novo repositório: colocar *license MIT*
