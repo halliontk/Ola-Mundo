@@ -28,3 +28,5 @@ São problemas que encontramos em algum códigoou programa e perguntamos no GITH
 Para criar merge (unir as ramificações):
 -Vai na branch master/main > Menu > Branch > Merge into current Branch
 
+# Hospedar site no github
+-No site GitHub, vai no repositório desejado > settings > (do lado esquerdo em Code and automation) Pages > Source e seleciona.
