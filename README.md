@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Curso de Git/GitHUB
+ Curso de Git/GitHUB do Curso em Video
 
 # Repositório:
 para criar um repositório: File > new  repository
@@ -21,10 +21,10 @@ São problemas que encontramos em algum códigoou programa e perguntamos no GITH
 # Guia de linguagem MARKDOWN:
 -Usado no ReadME, Issues e Pull request
 
-Lista numerada: qualquer número + ponto / para sub-item de uma lista: dar 3 espaços (
-1. teste
-1. teste2
-2. teste3
-7. sub-lista:
-   1. sub-item
+# Branches
+-Melhor para dividir o trabalho e evitar erro no programa principal.
+-Menu > Branch > New Branch
+
+Para criar merge (unir as ramificações):
+-Vai na branch master/main > Menu > Branch > Merge into current Branch
 
